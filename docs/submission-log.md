@@ -64,6 +64,7 @@ A single record of every public directory, marketplace, and awesome-list submiss
 | Glama (runs from source) | https://glama.ai/mcp/servers/i2v-ai/i2v-cli | 2026-11-22 | Listed as a B-rated official server; claiming needs `glama.json`, which is now committed to both i2v-cli and i2v-mcp |
 | Cline MCP Marketplace | https://github.com/cline/mcp-marketplace/issues/3983 | 2026-11 | Issue filed with 400x400 logo |
 | Perplexity Connector | Google Form at https://pplx.ai/connector-form-submission | 2026-11-22 | Submitted, on-screen confirmation, review questions go to connectors@perplexity.ai |
+| Gemini CLI extension gallery | https://geminicli.com/extensions | 2026-11-22 | `gemini-extension.json` plus the `gemini-cli-extension` topic added to i2v-ai/i2v-mcp; the daily crawler picks it up |
 
 ## Pull requests and issues
 
@@ -108,6 +109,7 @@ A single record of every public directory, marketplace, and awesome-list submiss
 | foss42/awesome-generative-ai-apis | #540 | GenAI APIs (Other API Providers) table row, issue #539 filed first | Open, mergeable |
 | LeslieLeung/awesome-mcp-server-cn | #19 | Common services list, Chinese entry appended | Open, mergeable |
 | Wellux/awesome-mcp-connectors | #8 | Creative, CAD and maker servers entry, star count left to the repo script | Open, mergeable |
+| pathintegral-institute/mcpm.sh | #566 | `mcp-registry/servers/i2v-ai.json` with hosted, API key and npm installs | Open, mergeable |
 | Sagargupta16/awesome-mcp-servers | #487 | Design & Creative table row | **Merged** 2026-11-21; duplicate issue #490 closed |
 | Chat2AnyLLM/awesome-repo-configs | #359 | Skill, plugin marketplace and MCP repo config | **Merged** 2026-11-21 |
 
