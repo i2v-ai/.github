@@ -52,14 +52,14 @@ A single record of every public directory, marketplace, and awesome-list submiss
 | awesome-mcp.tools | https://awesome-mcp.tools/submit | 2026-11-22 | Received, tracked on GitHub |
 | Cline MCP Marketplace | https://github.com/cline/mcp-marketplace/issues/3983 | 2026-11 | Issue filed with 400x400 logo |
 
-## Open pull requests
+## Pull requests and issues
 
-| Repository | PR | Change | Status |
+| Repository | PR/Issue | Change | Status |
 | --- | --- | --- | --- |
 | punkpeye/awesome-remote-mcp-servers | #5413 | Multimedia section entry | Open, mergeable |
 | punkpeye/awesome-mcp-servers | #20211 | Multimedia Process entry (local stdio) | Open, mergeable |
 | VoltAgent/awesome-agent-skills | #1461 | Specialized Domains entry | Open, mergeable |
-| docker/mcp-registry | #7492 | Registry entry | Open, no checks reported |
+| docker/mcp-registry | #7492 | Registry entry | Open, mergeable |
 | jaw9c/awesome-remote-mcp-servers | #2632 | Table row, README line 95 | Open, mergeable |
 | MobinX/awesome-mcp-list | #1413 | Art and Culture entry | Open, mergeable |
 | yzfly/Awesome-MCP-ZH | #1132 | Multimedia section entry (Chinese) | Open, mergeable |
@@ -70,7 +70,14 @@ A single record of every public directory, marketplace, and awesome-list submiss
 | Kilo-Org/kilo-marketplace | #797 | `mcps/i2v-ai/MCP.yaml` | Open, mergeable |
 | AIAnytime/Awesome-MCP-Servers | #635 | `servers/i2v-ai.json` plus generated README | Open, mergeable |
 | YuzeHao2023/Awesome-MCP-Servers | #964 | AI Services entry | Open, mergeable |
-| Sagargupta16/awesome-mcp-servers | #490 | Issue, bot converts to PR | Issue open |
+| AlexMili/Awesome-MCP | #461 | Media & 3D row plus section count bump | Open, mergeable |
+| abordage/awesome-mcp | #282 | `repositories.yaml` Media Processing / Image Generation | Open, mergeable |
+| BehiSecc/awesome-claude-skills | #1475 | Media & Content entry | Open, mergeable |
+| karanb192/awesome-claude-skills | #763 | Media & Content Creation table row | Open, mergeable |
+| TrueHaiq/awesome-mcp | #86 | AI Services bullet with official marker | Open, mergeable |
+| JustInCache/awesome-mcp-collection | #108 | AI & ML table row | Open, mergeable |
+| Sagargupta16/awesome-mcp-servers | #487 | Design & Creative table row | **Merged** 2026-11-21; duplicate issue #490 closed |
+| Chat2AnyLLM/awesome-repo-configs | #359 | Skill, plugin marketplace and MCP repo config | **Merged** 2026-11-21 |
 
 ## Skipped on purpose
 
@@ -96,4 +103,6 @@ A single record of every public directory, marketplace, and awesome-list submiss
 - skills.sh: the skill pages resolve at `https://skills.sh/i2v-ai/i2v-skills/i2v-models` and `.../i2v-video`; search indexing follows install telemetry and has not picked them up yet.
 - Snyk audit: the prompt-injection finding was addressed in CLI 1.2.2 by rejecting an undeclared `callBackUrl` in the local stdio server; re-scan pending.
 - Cursor Marketplace (organization publisher) and the Claude directory need a written permission or an organization account.
+- ComposioHQ/awesome-claude-skills: the one-row change is pushed to the fork branch `someone1128:add-i2v-models`, but GitHub rejects PR creation for that head with `someone1128 does not have the correct permissions to execute CreatePullRequest`. Needs a maintainer-side workaround.
+- bh-rat/awesome-mcp-enterprise: issue-first workflow and the scope explicitly excludes MCP servers themselves, so it is not a fit.
 - Delete the unused placeholder repository `i2v-ai/i2v.ai-skills` (needs the `delete_repo` scope).
