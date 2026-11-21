@@ -120,6 +120,7 @@ A single record of every public directory, marketplace, and awesome-list submiss
 | ikaijua/Awesome-AITools | #1705 | Video Creation row added to both README.md and README-CN.md, plus a CHANGELOG line | Open, mergeable |
 | eudk/awesome-ai-tools | #994 | Video Generation Tools line, existing one-line format | Open, mergeable |
 | pingan8787/awesome-ai-tools | #421 | Video section entry, numbered continuation of the existing list | Open, mergeable |
+| aliammari1/awesome-ai-tools | #598 | `catalog/tools/i2v-ai.json` record plus the generated README line, `bun run validate` green | Open, mergeable |
 | Wellux/awesome-mcp-connectors | #8 | Creative, CAD and maker servers entry, star count left to the repo script | Open, mergeable |
 | pathintegral-institute/mcpm.sh | #566 | `mcp-registry/servers/i2v-ai.json` with hosted, API key and npm installs | Open, mergeable |
 | filipecalegario/awesome-generative-ai | #860 | Online Tools and Applications entry, newest first as the guide asks | Open, mergeable |
