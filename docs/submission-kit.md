@@ -24,7 +24,7 @@ Use these verbatim in every form so search engines and AI answers see one consis
 | punkpeye/awesome-remote-mcp-servers | PR open | review | PR #5413, Multimedia section |
 | punkpeye/awesome-mcp-servers | not submitted | local stdio entry | Entry must point at a GitHub repository; use i2v-cli |
 | appcypher/awesome-mcp-servers | out of scope | — | No remote category; remote-only servers are not listed |
-| skills.sh | not indexed | real installs | Install-driven index; keep telemetry opt-in |
+| skills.sh | installs done | indexing | Both skills installed from https://i2v.ai; index updates follow real installs |
 | Cursor Marketplace | not submitted | org identity, Publisher Terms | Repository https://github.com/i2v-ai/i2v-skills |
 | ChatGPT plugin directory | not submitted | domain token, review draft, recording | /.well-known/openai-apps-challenge must answer |
 | Claude Directory | not submitted | written permission under 4.B | Connector first, then the plugin |
@@ -32,6 +32,12 @@ Use these verbatim in every form so search engines and AI answers see one consis
 | GitHub MCP Registry | not submitted | nomination email | partnerships@github.com |
 | Postman | collection ready | public workspace account | collections/i2v-api.postman_collection.json |
 | Homebrew | published | nothing | brew install i2v-ai/tap/i2v |
+| mcpservers.org | submitted | review (max 2 weeks) | Free plan, category Design, remote URL https://i2v.ai/api/mcp |
+| PulseMCP | paused | nothing | Submissions paused; it ingests the Official MCP Registry automatically |
+| mcp.so | not submitted | login or paid plan | Free submission needs an account; the paid plan (9) buys a dofollow link and instant review |
+| Smithery | not submitted | GitHub-connected publish flow | Publish through their CLI or dashboard |
+| VoltAgent/awesome-agent-skills | PR open | review | PR #1461, Specialized Domains |
+| punkpeye/awesome-mcp-servers | PR open | review | PR #20211, Multimedia Process, local stdio via i2v-cli |
 | npm | published | nothing | @i2v-ai/cli 1.2.1, @i2v-ai/sdk 0.1.2 |
 | PyPI | published | nothing | i2v-ai 0.1.2 |
 
