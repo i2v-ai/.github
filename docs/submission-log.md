@@ -66,6 +66,10 @@ A single record of every public directory, marketplace, and awesome-list submiss
 | Cline MCP Marketplace | https://github.com/cline/mcp-marketplace/issues/3983 | 2026-11 | Issue filed with 400x400 logo |
 | Perplexity Connector | Google Form at https://pplx.ai/connector-form-submission | 2026-11-22 | Submitted, on-screen confirmation, review questions go to connectors@perplexity.ai |
 | Gemini CLI extension gallery | https://geminicli.com/extensions | 2026-11-22 | `gemini-extension.json` plus the `gemini-cli-extension` topic added to i2v-ai/i2v-mcp; the daily crawler picks it up |
+| FutureTools (futuretools.io) | https://futuretools.io/submit-a-tool | 2026-11-22 | POST /api/tools/submit returned {"success":true}; on-screen "Tool Submitted!", Matt reviews manually |
+| Insidr AI Tools (insidr.ai) | https://www.insidr.ai/submit-tools/ | 2026-11-22 | POST /api/tool returned {"ok":true}; on-screen RECEIVED, review only, no reply promised |
+| AI Tools Directory (aitoolsdirectory.com) | https://aitoolsdirectory.com/tool-submitted | 2026-11-22 | Paperform at aitool.paperform.co submitted; on-screen "Tool Submission Successful" |
+| aitoolslist.io | https://aitoolslist.io/submit-ai-tool/ | 2026-11-22 | Tally form n9BqRX submitted; on-screen "Form submitted" |
 
 ## Pull requests and issues
 
@@ -139,6 +143,14 @@ A single record of every public directory, marketplace, and awesome-list submiss
 | awesome-cli-apps | Requires more than 20 stars and more than 3 months of history |
 | travisvn/awesome-claude-skills | Requires 10+ GitHub stars of social proof per skill and rejects AI-assisted submissions |
 | mcpdirectory.com, openmcp.org, mcpfind.com, mcpbenchmark.com | Parked or for-sale domains, no submission form |
+| topai.tools, toolify.ai, aitoolnet.com, openfuture.ai | Cloudflare challenge (HTTP 403) on the submit pages |
+| aihubs.ai | Submit page is a login wall |
+| dang.ai | Free tier requires a verified backlink on our site; paid tiers are 49 USD and up |
+| altern.ai | Free plan requires an Altern badge on i2v.ai plus an X follow and a newsletter signup; paid plans are 29 and 49 USD |
+| aitools.inc | Free-listing Typeform is closed; only the 129 USD Fast Lane is open |
+| toolpilot.ai | Free listings require a mandatory backlink badge |
+| public-apis/public-apis | CONTRIBUTING rejects marketing-style submissions and requires free or freemium access; usage-based pricing disqualifies us |
+| best-of-ai/best-of-ai | Guidelines forbid self-promotion unless the tool is already well known |
 | PulseMCP, Toolify, Futurepedia, There's An AI For That, SaaSHub, AlternativeTo, Product Hunt | Rejected or blocked (HTTP 403/429) for automated access |
 
 ## Still open
