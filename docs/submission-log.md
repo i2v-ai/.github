@@ -50,6 +50,7 @@ A single record of every public directory, marketplace, and awesome-list submiss
 | AIBase MCP | https://mcp.aibase.com/zh/submit | 2026-11-22 | Submitted, visible in user center |
 | mcpserver.space | https://mcpserver.space/submit/ | 2026-11-22 | Submission received |
 | awesome-mcp.tools | https://awesome-mcp.tools/submit | 2026-11-22 | Received, tracked on GitHub |
+| MCP Hunter | https://www.mcphunter.com/submit | 2026-11-22 | Submitted, stated manual review within 24 hours |
 | Cline MCP Marketplace | https://github.com/cline/mcp-marketplace/issues/3983 | 2026-11 | Issue filed with 400x400 logo |
 
 ## Pull requests and issues
@@ -76,6 +77,9 @@ A single record of every public directory, marketplace, and awesome-list submiss
 | karanb192/awesome-claude-skills | #763 | Media & Content Creation table row | Open, mergeable |
 | TrueHaiq/awesome-mcp | #86 | AI Services bullet with official marker | Open, mergeable |
 | JustInCache/awesome-mcp-collection | #108 | AI & ML table row | Open, mergeable |
+| collabnix/awesome-mcp-lists | #447 | Multimedia & Design row 25 | Open, mergeable |
+| Albertchamberlain/Awesome-MCP | #184 | `data/catalog.yaml` entry plus regenerated README | Open, mergeable |
+| mctrinh/awesome-mcp-servers | #223 | Community Servers entry | Open, mergeable |
 | Sagargupta16/awesome-mcp-servers | #487 | Design & Creative table row | **Merged** 2026-11-21; duplicate issue #490 closed |
 | Chat2AnyLLM/awesome-repo-configs | #359 | Skill, plugin marketplace and MCP repo config | **Merged** 2026-11-21 |
 
@@ -93,6 +97,7 @@ A single record of every public directory, marketplace, and awesome-list submiss
 | appcypher/awesome-mcp-servers | Repository archived, pull requests rejected |
 | wong2/awesome-mcp-servers | README states it does not accept pull requests |
 | awesome-cli-apps | Requires more than 20 stars and more than 3 months of history |
+| travisvn/awesome-claude-skills | Requires 10+ GitHub stars of social proof per skill and rejects AI-assisted submissions |
 | mcpdirectory.com, openmcp.org, mcpfind.com, mcpbenchmark.com | Parked or for-sale domains, no submission form |
 | PulseMCP, Toolify, Futurepedia, There's An AI For That, SaaSHub, AlternativeTo, Product Hunt | Rejected or blocked (HTTP 403/429) for automated access |
 
