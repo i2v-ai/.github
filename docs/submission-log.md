@@ -51,6 +51,7 @@ A single record of every public directory, marketplace, and awesome-list submiss
 | mcpserver.space | https://mcpserver.space/submit/ | 2026-11-22 | Submission received |
 | awesome-mcp.tools | https://awesome-mcp.tools/submit | 2026-11-22 | Received, tracked on GitHub |
 | MCP Hunter | https://www.mcphunter.com/submit | 2026-11-22 | Submitted, stated manual review within 24 hours |
+| Glama (runs from source) | https://glama.ai/mcp/servers via Add Server | 2026-11-22 | Submitted `i2v-ai/i2v-cli`; awaiting review, then a Dockerfile is requested by email |
 | Cline MCP Marketplace | https://github.com/cline/mcp-marketplace/issues/3983 | 2026-11 | Issue filed with 400x400 logo |
 
 ## Pull requests and issues
@@ -80,6 +81,7 @@ A single record of every public directory, marketplace, and awesome-list submiss
 | collabnix/awesome-mcp-lists | #447 | Multimedia & Design row 25 | Open, mergeable |
 | Albertchamberlain/Awesome-MCP | #184 | `data/catalog.yaml` entry plus regenerated README | Open, mergeable |
 | mctrinh/awesome-mcp-servers | #223 | Community Servers entry | Open, mergeable |
+| wundercorp/awesome-mcp | #249 | `servers/design/i2v-ai/server.json` | Open, mergeable |
 | Sagargupta16/awesome-mcp-servers | #487 | Design & Creative table row | **Merged** 2026-11-21; duplicate issue #490 closed |
 | Chat2AnyLLM/awesome-repo-configs | #359 | Skill, plugin marketplace and MCP repo config | **Merged** 2026-11-21 |
 
