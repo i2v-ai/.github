@@ -70,7 +70,7 @@ A single record of every public directory, marketplace, and awesome-list submiss
 | Insidr AI Tools (insidr.ai) | https://www.insidr.ai/submit-tools/ | 2026-11-22 | POST /api/tool returned {"ok":true}; on-screen RECEIVED, review only, no reply promised |
 | AI Tools Directory (aitoolsdirectory.com) | https://aitoolsdirectory.com/tool-submitted | 2026-11-22 | Paperform at aitool.paperform.co submitted; on-screen "Tool Submission Successful" |
 | aitoolslist.io | https://aitoolslist.io/submit-ai-tool/ | 2026-11-22 | Tally form n9BqRX submitted; on-screen "Form submitted" |
-
+| AIToolboard | https://aitoolboard.com/submit | 2026-11-22 | Free Listing selected; submit fired a browser alert "Tool submitted successfully! It will be reviewed by our team." and redirected to the login page |
 ## Pull requests and issues
 
 | Repository | PR/Issue | Change | Status |
@@ -152,6 +152,10 @@ A single record of every public directory, marketplace, and awesome-list submiss
 | public-apis/public-apis | CONTRIBUTING rejects marketing-style submissions and requires free or freemium access; usage-based pricing disqualifies us |
 | best-of-ai/best-of-ai | Guidelines forbid self-promotion unless the tool is already well known |
 | PulseMCP, Toolify, Futurepedia, There's An AI For That, SaaSHub, AlternativeTo, Product Hunt | Rejected or blocked (HTTP 403/429) for automated access |
+| aitoolly.com | Lowest package is a 29.99 USD one-time listing |
+| aixploria.com | Listings start at 79 USD |
+| aitoolmate.com | One-time 9 USD submission fee |
+| supertools.therundown.ai | No form; they ask for an email to support@therundown.ai instead |
 
 ## Still open
 
