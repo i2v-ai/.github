@@ -99,6 +99,7 @@ A single record of every public directory, marketplace, and awesome-list submiss
 | shishirui/awesome-claude-skills-zh | #23 | Design and creative section entry, Chinese list format | Open, mergeable |
 | MCPHubCloud/awesome-mcp | #31 | Art & Culture entry | Open, mergeable |
 | foss42/awesome-generative-ai-apis | #540 | GenAI APIs (Other API Providers) table row, issue #539 filed first | Open, mergeable |
+| LeslieLeung/awesome-mcp-server-cn | #19 | Common services list, Chinese entry appended | Open, mergeable |
 | Sagargupta16/awesome-mcp-servers | #487 | Design & Creative table row | **Merged** 2026-11-21; duplicate issue #490 closed |
 | Chat2AnyLLM/awesome-repo-configs | #359 | Skill, plugin marketplace and MCP repo config | **Merged** 2026-11-21 |
 
