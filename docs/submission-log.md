@@ -52,6 +52,7 @@ A single record of every public directory, marketplace, and awesome-list submiss
 | mcpserver.space | https://mcpserver.space/submit/ | 2026-11-22 | Submission received |
 | awesome-mcp.tools | https://awesome-mcp.tools/submit | 2026-11-22 | Received, tracked on GitHub |
 | MCP Hunter | https://www.mcphunter.com/submit | 2026-11-22 | Submitted, stated manual review within 24 hours |
+| mcpservers.com | https://mcpservers.com/submit/success?id=c4d3a28d-6997-4db5-9072-78bfd259f91c | 2026-11-22 | Submission successful, review id `c4d3a28d-6997-4db5-9072-78bfd259f91c` |
 | MCP Toplist | https://mcptoplist.com/account/submissions/9XTDm3vZiGgV7S4uBPu6 | 2026-11-22 | In review, catalog key `srv_18d7b419a180b120` |
 | claudecode.directory | https://claudecode.directory/submit?received=1&kind=resource | 2026-11-22 | Received, enters the import queue |
 | protodex.io (LuciferForge/mcp-directory) | https://github.com/LuciferForge/mcp-directory/issues/120 | 2026-11-22 | Free community queue, stated 7-14 days |
