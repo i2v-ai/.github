@@ -23,6 +23,7 @@ A single record of every public directory, marketplace, and awesome-list submiss
 | --- | --- | --- | --- |
 | Official MCP Registry | https://registry.modelcontextprotocol.io (`io.github.i2v-ai/mcp`) | 2026-11 | Published, version 1.1.1 |
 | Glama | https://glama.ai/mcp/connectors/io.github.i2v-ai/mcp | 2026-11 | Claimed, Healthy, 13 tools indexed |
+| Glama (runs from source) | https://glama.ai/mcp/servers/i2v-ai/i2v-cli | 2026-11-22 | Claimed, Docker build green, release v1.2.1, rated A (TDQS 3.9/5 over 14 tools) |
 | mcpserver.dev | https://mcpserver.dev/s/i2v-ai_1zo2li7 | 2026-11 | Live |
 | LibHunt (CLI) | https://www.libhunt.com/r/i2v-cli | 2026-11 | Live, auto-approved |
 | LibHunt (MCP) | https://www.libhunt.com/r/i2v-mcp | 2026-11 | Live, auto-approved |
@@ -144,7 +145,7 @@ A single record of every public directory, marketplace, and awesome-list submiss
 - Snyk audit: the prompt-injection finding was addressed in CLI 1.2.2 by rejecting an undeclared `callBackUrl` in the local stdio server; re-scan pending.
 - Cursor Marketplace (organization publisher) needs an organization account.
 - ccplugins/awesome-claude-code-plugins: the branch `someone1128:add-i2v-ai` is pushed (README.md and README-zh.md), but PR creation is rejected with the same `CreatePullRequest` permission error as ComposioHQ; the repository has issues disabled, so there is no fallback channel.
-- Glama: the server page and score badge resolve, so the listing exists, but claiming it needs maintainer proof. `glama.json` with `maintainers: [someone1128, i2v-ai]` is now on `main` in both i2v-cli and i2v-mcp; the claim page still reports unverified until the next repository sync, so re-check the admin page later.
+- Glama: claimed as @someone1128 and evaluated. The Docker build spec (`npm install -g @i2v-ai/cli@1.2.1`, started as `i2v mcp` behind `mcp-proxy`, placeholder `I2V_API_KEY`) builds green and release v1.2.1 is published, so the score badge resolves to _rated A on Glama_. `completion_upload` (2.7/5) is the weakest tool definition and the only C; the next release should tighten it.
 - ComposioHQ/awesome-claude-skills: the one-row change is pushed to the fork branch `someone1128:add-i2v-models`, but GitHub rejects PR creation for that head with `someone1128 does not have the correct permissions to execute CreatePullRequest`. Needs a maintainer-side workaround.
 - bh-rat/awesome-mcp-enterprise: issue-first workflow and the scope explicitly excludes MCP servers themselves, so it is not a fit.
 - Delete the unused placeholder repository `i2v-ai/i2v.ai-skills` (needs the `delete_repo` scope).
