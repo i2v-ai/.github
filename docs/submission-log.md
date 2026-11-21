@@ -112,6 +112,7 @@ A single record of every public directory, marketplace, and awesome-list submiss
 | pathintegral-institute/mcpm.sh | #566 | `mcp-registry/servers/i2v-ai.json` with hosted, API key and npm installs | Open, mergeable |
 | filipecalegario/awesome-generative-ai | #860 | Online Tools and Applications entry, newest first as the guide asks | Open, mergeable |
 | CognitionAI/devin-marketplace | #252 | `plugins/i2v/.devin-plugin/plugin.json` plus a checked-in logo | Open, mergeable |
+| backblaze-labs/awesome-video-generation | #67 | `entries.yaml` only, one entry in `text-to-video-apis` | Open, mergeable |
 | Sagargupta16/awesome-mcp-servers | #487 | Design & Creative table row | **Merged** 2026-11-21; duplicate issue #490 closed |
 | Chat2AnyLLM/awesome-repo-configs | #359 | Skill, plugin marketplace and MCP repo config | **Merged** 2026-11-21 |
 
