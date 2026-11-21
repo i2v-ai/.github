@@ -44,6 +44,7 @@ A single record of every public directory, marketplace, and awesome-list submiss
 | mcpserverhub.com | Tally form https://tally.so/r/31bzJ1 | 2026-11 | Submitted |
 | LaunchMCP | https://launchmcp.co/submit/status/3f6f0b71-71fd-4300-9dba-57ed4f9bf3ba | 2026-11 | Pending, id `3f6f0b71-71fd-4300-9dba-57ed4f9bf3ba` |
 | MCP Pub | WPForms confirmation | 2026-11 | Submitted |
+| MCP Catalog (mcpcatalog.dev) | https://mcpcatalog.dev/submit | 2026-11-22 | Submission received, API returned {"ok":true}, manual review a few days |
 | MCPServerSpot | Form confirmation | 2026-11 | Submitted |
 | AgenticSkills | https://agenticskills.io/submit?type=mcp | 2026-11 | Submitted |
 | opensourcealternative.to | https://opensourcealternative.to/project/i2v-cli | 2026-11 | Free waitlist, stated 6+ months |
