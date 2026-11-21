@@ -82,6 +82,9 @@ A single record of every public directory, marketplace, and awesome-list submiss
 | Albertchamberlain/Awesome-MCP | #184 | `data/catalog.yaml` entry plus regenerated README | Open, mergeable |
 | mctrinh/awesome-mcp-servers | #223 | Community Servers entry | Open, mergeable |
 | wundercorp/awesome-mcp | #249 | `servers/design/i2v-ai/server.json` | Open, mergeable |
+| habitoai/awesome-mcp-servers | #420 | Art and Culture entry (CRLF preserved) | Open, mergeable |
+| sylviangth/awesome-remote-mcp-servers | #345 | First Media & Content entry, hosted format | Open, mergeable |
+| hashgraph-online/awesome-ai-plugins | #1415 | Tools & Integrations entry, native MCP server format | Open, mergeable |
 | Sagargupta16/awesome-mcp-servers | #487 | Design & Creative table row | **Merged** 2026-11-21; duplicate issue #490 closed |
 | Chat2AnyLLM/awesome-repo-configs | #359 | Skill, plugin marketplace and MCP repo config | **Merged** 2026-11-21 |
 
