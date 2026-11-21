@@ -22,7 +22,7 @@ Use these verbatim in every form so search engines and AI answers see one consis
 | Official MCP Registry | published 1.1.1 | nothing | io.github.i2v-ai/mcp, repository i2v-mcp |
 | Glama | listed | owner claim | https://glama.ai/mcp/connectors/io.github.i2v-ai/mcp |
 | punkpeye/awesome-remote-mcp-servers | PR open | review | PR #5413, Multimedia section |
-| punkpeye/awesome-mcp-servers | not submitted | local stdio entry | Entry must point at a GitHub repository; use i2v-cli |
+| punkpeye/awesome-mcp-servers | PR open | review | PR #20211, Multimedia Process, local stdio via i2v-cli |
 | appcypher/awesome-mcp-servers | out of scope | — | No remote category; remote-only servers are not listed |
 | skills.sh | installs done | indexing | Both skills installed from https://i2v.ai; index updates follow real installs |
 | Cursor Marketplace | not submitted | org identity, Publisher Terms | Repository https://github.com/i2v-ai/i2v-skills |
@@ -34,7 +34,15 @@ Use these verbatim in every form so search engines and AI answers see one consis
 | Homebrew | published | nothing | brew install i2v-ai/tap/i2v |
 | mcpservers.org | submitted | review (max 2 weeks) | Free plan, category Design, remote URL https://i2v.ai/api/mcp |
 | PulseMCP | paused | nothing | Submissions paused; it ingests the Official MCP Registry automatically |
-| mcp.so | not submitted | login or paid plan | Free submission needs an account; the paid plan (9) buys a dofollow link and instant review |
+| mcpservers.org | submitted | review (max 2 weeks) | Free plan, category Design, remote URL https://i2v.ai/api/mcp |
+| mcp.directory (server) | submitted | review (24h) | repo i2v-mcp, npm @i2v-ai/cli, email support@i2v.ai |
+| mcp.directory (skill) | submitted | review (24h) | skill source i2v-skills/i2v-models/SKILL.md |
+| PulseMCP | paused | nothing | Submissions paused; ingests the Official MCP Registry automatically |
+| mcp.so | blocked | login or paid plan | Free submission needs an account; the paid plan (USD 39) buys a dofollow link |
+| Cursor Directory | blocked | GitHub/Google sign-in | Submit form at /plugins/new requires an account |
+| Smithery | changed | nothing | Product pivoted to Arcade; the publish flow no longer exists |
+| SkillsMP | blocked | no public submit route | Pages return 403 to automated clients |
+| VoltAgent/awesome-agent-skills | PR open | review | PR #1461, Specialized Domains |
 | Smithery | not submitted | GitHub-connected publish flow | Publish through their CLI or dashboard |
 | VoltAgent/awesome-agent-skills | PR open | review | PR #1461, Specialized Domains |
 | punkpeye/awesome-mcp-servers | PR open | review | PR #20211, Multimedia Process, local stdio via i2v-cli |
