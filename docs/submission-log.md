@@ -96,6 +96,7 @@ A single record of every public directory, marketplace, and awesome-list submiss
 | kenryu42/awesome-claude-skills | #40 | Community Skills table row | Open, mergeable |
 | sandipan1/awesome-claude-skills | #35 | Community Skills, two skills replacing the placeholder | Open, mergeable |
 | Appnova-EU-OU/awesome-remote-mcp-servers | #1720 | `servers/media/i2v-ai.json` validated against the repo schema | Open, mergeable |
+| shishirui/awesome-claude-skills-zh | #23 | Design and creative section entry, Chinese list format | Open, mergeable |
 | Sagargupta16/awesome-mcp-servers | #487 | Design & Creative table row | **Merged** 2026-11-21; duplicate issue #490 closed |
 | Chat2AnyLLM/awesome-repo-configs | #359 | Skill, plugin marketplace and MCP repo config | **Merged** 2026-11-21 |
 
