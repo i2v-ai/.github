@@ -57,6 +57,9 @@ A single record of every public directory, marketplace, and awesome-list submiss
 | claudecodecommands.directory | https://claudecodecommands.directory/commands/i2v-generate | 2026-11-22 | Live slash command `i2v-generate`, tags automation / developer-tools / image-generation |
 | MCP Toplist | https://mcptoplist.com/account/submissions/9XTDm3vZiGgV7S4uBPu6 | 2026-11-22 | In review, catalog key `srv_18d7b419a180b120` |
 | claudecode.directory | https://claudecode.directory/submit?received=1&kind=resource | 2026-11-22 | Received, enters the import queue |
+| Kiro Registry (kiro.dev) | https://kiro.dev/registry/submit/thank-you/ | 2026-11-22 | MCP server submitted via AppSync createPowersContact, receipt id 8638bbbf-cfb4-4ab0-84a2-635d86110286, review by email |
+| Grok plugin marketplace (x.ai) | https://x.ai/bot/marketplace/submit-a-plugin | 2026-11-22 | POST /api/bot/plugin-submission returned success true; listed for Grok Bot and Cursor, review by email |
+| ToolHive Catalog (stacklok) | https://github.com/stacklok/toolhive-catalog/issues/2035 | 2026-11-22 | Add-an-MCP-server issue filed, waiting for the approved-for-pr label before a PR |
 | protodex.io (LuciferForge/mcp-directory) | https://github.com/LuciferForge/mcp-directory/issues/120 | 2026-11-22 | Free community queue, stated 7-14 days |
 | Glama (runs from source) | https://glama.ai/mcp/servers via Add Server | 2026-11-22 | Submitted `i2v-ai/i2v-cli`; awaiting review, then a Dockerfile is requested by email |
 | Cline MCP Marketplace | https://github.com/cline/mcp-marketplace/issues/3983 | 2026-11 | Issue filed with 400x400 logo |
