@@ -28,8 +28,9 @@ A single record of every public directory, marketplace, and awesome-list submiss
 | LibHunt (MCP) | https://www.libhunt.com/r/i2v-mcp | 2026-11 | Live, auto-approved |
 | LibHunt (SDK JS) | https://www.libhunt.com/r/i2v-sdk-js | 2026-11 | Live, auto-approved |
 | LibHunt (Skills) | https://www.libhunt.com/r/i2v-skills | 2026-11 | Live, auto-approved |
-| Cursor Directory plugin | https://cursor.directory/plugins/i2v-ai | 2026-11-22 | Submitted, security scan running |
+| Cursor Directory plugin | https://cursor.directory/plugins/i2v-ai | 2026-11-22 | Live, security scan passed |
 | grok-bot.directory | https://grok-bot.directory/apps/i2v-ai | 2026-11-22 | Listed |
+| ever.works MCP directory | https://mcpserver.ever.works/items/i2vai-mcp-server | 2026-11-22 | Live, category Media Processing MCP Servers |
 | MCP Marketplace | https://mcp-marketplace.io | 2026-11-22 | Pending review (`I2v.ai`, v1.0.0, Free) |
 
 ## Submitted, waiting on review
@@ -51,6 +52,9 @@ A single record of every public directory, marketplace, and awesome-list submiss
 | mcpserver.space | https://mcpserver.space/submit/ | 2026-11-22 | Submission received |
 | awesome-mcp.tools | https://awesome-mcp.tools/submit | 2026-11-22 | Received, tracked on GitHub |
 | MCP Hunter | https://www.mcphunter.com/submit | 2026-11-22 | Submitted, stated manual review within 24 hours |
+| MCP Toplist | https://mcptoplist.com/account/submissions/9XTDm3vZiGgV7S4uBPu6 | 2026-11-22 | In review, catalog key `srv_18d7b419a180b120` |
+| claudecode.directory | https://claudecode.directory/submit?received=1&kind=resource | 2026-11-22 | Received, enters the import queue |
+| protodex.io (LuciferForge/mcp-directory) | https://github.com/LuciferForge/mcp-directory/issues/120 | 2026-11-22 | Free community queue, stated 7-14 days |
 | Glama (runs from source) | https://glama.ai/mcp/servers via Add Server | 2026-11-22 | Submitted `i2v-ai/i2v-cli`; awaiting review, then a Dockerfile is requested by email |
 | Cline MCP Marketplace | https://github.com/cline/mcp-marketplace/issues/3983 | 2026-11 | Issue filed with 400x400 logo |
 
@@ -85,6 +89,8 @@ A single record of every public directory, marketplace, and awesome-list submiss
 | habitoai/awesome-mcp-servers | #420 | Art and Culture entry (CRLF preserved) | Open, mergeable |
 | sylviangth/awesome-remote-mcp-servers | #345 | First Media & Content entry, hosted format | Open, mergeable |
 | hashgraph-online/awesome-ai-plugins | #1415 | Tools & Integrations entry, native MCP server format | Open, mergeable |
+| ravitemer/mcp-registry | #105 | `servers/i2v_ai.yaml` with remote and NPX installs | Open, mergeable |
+| lobstercare/mcp-hub | #131 | README and README.fr utility entries | Open, mergeable |
 | Sagargupta16/awesome-mcp-servers | #487 | Design & Creative table row | **Merged** 2026-11-21; duplicate issue #490 closed |
 | Chat2AnyLLM/awesome-repo-configs | #359 | Skill, plugin marketplace and MCP repo config | **Merged** 2026-11-21 |
 
@@ -94,7 +100,7 @@ A single record of every public directory, marketplace, and awesome-list submiss
 | --- | --- |
 | mcp.so | Paid listing only (39 USD) |
 | claudemarket.ai | Paid listing only (29 USD) |
-| ever.works | Paid plan required to finish submission |
+| claude.ai directory | Paid: submissions require a Pro, Max, Ultra, Team or Enterprise plan |
 | mcpserver.directory | Paid only (HTTP 402) |
 | mcphub.io | Paid only (HTTP 402) |
 | PulseMCP | Submissions paused; syncs from the official registry |
@@ -112,7 +118,9 @@ A single record of every public directory, marketplace, and awesome-list submiss
 - npm `@i2v-ai/cli@1.2.2`: staged as `ba391324-22c4-49bc-8499-b13ad227151c`, waiting on the maintainer security-key approval.
 - skills.sh: the skill pages resolve at `https://skills.sh/i2v-ai/i2v-skills/i2v-models` and `.../i2v-video`; search indexing follows install telemetry and has not picked them up yet.
 - Snyk audit: the prompt-injection finding was addressed in CLI 1.2.2 by rejecting an undeclared `callBackUrl` in the local stdio server; re-scan pending.
-- Cursor Marketplace (organization publisher) and the Claude directory need a written permission or an organization account.
+- Cursor Marketplace (organization publisher) needs an organization account.
+- ccplugins/awesome-claude-code-plugins: the branch `someone1128:add-i2v-ai` is pushed (README.md and README-zh.md), but PR creation is rejected with the same `CreatePullRequest` permission error as ComposioHQ; the repository has issues disabled, so there is no fallback channel.
+- Glama source submission: awaiting review, then a Dockerfile. The local stdio server returns `unauthorized` during an anonymous introspection (no `I2V_API_KEY`), so the Glama health check needs the Dockerfile path once the email arrives.
 - ComposioHQ/awesome-claude-skills: the one-row change is pushed to the fork branch `someone1128:add-i2v-models`, but GitHub rejects PR creation for that head with `someone1128 does not have the correct permissions to execute CreatePullRequest`. Needs a maintainer-side workaround.
 - bh-rat/awesome-mcp-enterprise: issue-first workflow and the scope explicitly excludes MCP servers themselves, so it is not a fit.
 - Delete the unused placeholder repository `i2v-ai/i2v.ai-skills` (needs the `delete_repo` scope).
