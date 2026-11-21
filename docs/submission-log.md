@@ -63,6 +63,7 @@ A single record of every public directory, marketplace, and awesome-list submiss
 | protodex.io (LuciferForge/mcp-directory) | https://github.com/LuciferForge/mcp-directory/issues/120 | 2026-11-22 | Free community queue, stated 7-14 days |
 | Glama (runs from source) | https://glama.ai/mcp/servers via Add Server | 2026-11-22 | Submitted `i2v-ai/i2v-cli`; awaiting review, then a Dockerfile is requested by email |
 | Cline MCP Marketplace | https://github.com/cline/mcp-marketplace/issues/3983 | 2026-11 | Issue filed with 400x400 logo |
+| Perplexity Connector | Google Form at https://pplx.ai/connector-form-submission | 2026-11-22 | Submitted, on-screen confirmation, review questions go to connectors@perplexity.ai |
 
 ## Pull requests and issues
 
