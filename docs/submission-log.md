@@ -109,6 +109,7 @@ A single record of every public directory, marketplace, and awesome-list submiss
 | MCPHubCloud/awesome-mcp | #31 | Art & Culture entry | Open, mergeable |
 | foss42/awesome-generative-ai-apis | #540 | GenAI APIs (Other API Providers) table row, issue #539 filed first | Open, mergeable |
 | LeslieLeung/awesome-mcp-server-cn | #19 | Common services list, Chinese entry appended | Open, mergeable |
+| zhaotoday/awesome-ai-video | #36 | Chinese index, `模型网关` section entry, follows the existing one-line format | Open, mergeable |
 | Wellux/awesome-mcp-connectors | #8 | Creative, CAD and maker servers entry, star count left to the repo script | Open, mergeable |
 | pathintegral-institute/mcpm.sh | #566 | `mcp-registry/servers/i2v-ai.json` with hosted, API key and npm installs | Open, mergeable |
 | filipecalegario/awesome-generative-ai | #860 | Online Tools and Applications entry, newest first as the guide asks | Open, mergeable |
