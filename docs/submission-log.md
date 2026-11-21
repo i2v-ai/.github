@@ -61,7 +61,7 @@ A single record of every public directory, marketplace, and awesome-list submiss
 | Grok plugin marketplace (x.ai) | https://x.ai/bot/marketplace/submit-a-plugin | 2026-11-22 | POST /api/bot/plugin-submission returned success true; listed for Grok Bot and Cursor, review by email |
 | ToolHive Catalog (stacklok) | https://github.com/stacklok/toolhive-catalog/issues/2035 | 2026-11-22 | Add-an-MCP-server issue filed, waiting for the approved-for-pr label before a PR |
 | protodex.io (LuciferForge/mcp-directory) | https://github.com/LuciferForge/mcp-directory/issues/120 | 2026-11-22 | Free community queue, stated 7-14 days |
-| Glama (runs from source) | https://glama.ai/mcp/servers via Add Server | 2026-11-22 | Submitted `i2v-ai/i2v-cli`; awaiting review, then a Dockerfile is requested by email |
+| Glama (runs from source) | https://glama.ai/mcp/servers/i2v-ai/i2v-cli | 2026-11-22 | Listed as a B-rated official server; claiming needs `glama.json`, which is now committed to both i2v-cli and i2v-mcp |
 | Cline MCP Marketplace | https://github.com/cline/mcp-marketplace/issues/3983 | 2026-11 | Issue filed with 400x400 logo |
 | Perplexity Connector | Google Form at https://pplx.ai/connector-form-submission | 2026-11-22 | Submitted, on-screen confirmation, review questions go to connectors@perplexity.ai |
 
@@ -107,6 +107,7 @@ A single record of every public directory, marketplace, and awesome-list submiss
 | MCPHubCloud/awesome-mcp | #31 | Art & Culture entry | Open, mergeable |
 | foss42/awesome-generative-ai-apis | #540 | GenAI APIs (Other API Providers) table row, issue #539 filed first | Open, mergeable |
 | LeslieLeung/awesome-mcp-server-cn | #19 | Common services list, Chinese entry appended | Open, mergeable |
+| Wellux/awesome-mcp-connectors | #8 | Creative, CAD and maker servers entry, star count left to the repo script | Open, mergeable |
 | Sagargupta16/awesome-mcp-servers | #487 | Design & Creative table row | **Merged** 2026-11-21; duplicate issue #490 closed |
 | Chat2AnyLLM/awesome-repo-configs | #359 | Skill, plugin marketplace and MCP repo config | **Merged** 2026-11-21 |
 
@@ -136,7 +137,7 @@ A single record of every public directory, marketplace, and awesome-list submiss
 - Snyk audit: the prompt-injection finding was addressed in CLI 1.2.2 by rejecting an undeclared `callBackUrl` in the local stdio server; re-scan pending.
 - Cursor Marketplace (organization publisher) needs an organization account.
 - ccplugins/awesome-claude-code-plugins: the branch `someone1128:add-i2v-ai` is pushed (README.md and README-zh.md), but PR creation is rejected with the same `CreatePullRequest` permission error as ComposioHQ; the repository has issues disabled, so there is no fallback channel.
-- Glama source submission: awaiting review, then a Dockerfile. The local stdio server returns `unauthorized` during an anonymous introspection (no `I2V_API_KEY`), so the Glama health check needs the Dockerfile path once the email arrives.
+- Glama: the server page and score badge resolve, so the listing exists, but claiming it needs maintainer proof. `glama.json` with `maintainers: [someone1128, i2v-ai]` is now on `main` in both i2v-cli and i2v-mcp; the claim page still reports unverified until the next repository sync, so re-check the admin page later.
 - ComposioHQ/awesome-claude-skills: the one-row change is pushed to the fork branch `someone1128:add-i2v-models`, but GitHub rejects PR creation for that head with `someone1128 does not have the correct permissions to execute CreatePullRequest`. Needs a maintainer-side workaround.
 - bh-rat/awesome-mcp-enterprise: issue-first workflow and the scope explicitly excludes MCP servers themselves, so it is not a fit.
 - Delete the unused placeholder repository `i2v-ai/i2v.ai-skills` (needs the `delete_repo` scope).
