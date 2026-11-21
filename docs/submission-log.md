@@ -111,6 +111,7 @@ A single record of every public directory, marketplace, and awesome-list submiss
 | LeslieLeung/awesome-mcp-server-cn | #19 | Common services list, Chinese entry appended | Open, mergeable |
 | zhaotoday/awesome-ai-video | #36 | Chinese index, `模型网关` section entry, follows the existing one-line format | Open, mergeable |
 | augstai/awesome-ai-video-generation | #65 | APIs & Developer Tools table row, one tool per PR as asked | Open, mergeable |
+| mahseema/awesome-ai-tools | #2843 | Video section entry, one line added | Open, mergeable |
 | Wellux/awesome-mcp-connectors | #8 | Creative, CAD and maker servers entry, star count left to the repo script | Open, mergeable |
 | pathintegral-institute/mcpm.sh | #566 | `mcp-registry/servers/i2v-ai.json` with hosted, API key and npm installs | Open, mergeable |
 | filipecalegario/awesome-generative-ai | #860 | Online Tools and Applications entry, newest first as the guide asks | Open, mergeable |
