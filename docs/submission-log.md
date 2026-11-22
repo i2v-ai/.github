@@ -37,6 +37,7 @@ A single record of every public directory, marketplace, and awesome-list submiss
 | ever.works MCP directory | https://mcpserver.ever.works/items/i2vai-mcp-server | 2026-11-22 | Live, category Media Processing MCP Servers |
 | MCP Marketplace | https://mcp-marketplace.io | 2026-11-22 | Pending review (`I2v.ai`, v1.0.0, Free) |
 | LobeHub Market | https://lobehub.com/mcp/i2v-ai-i2v-mcp | 2026-11-22 | Live, claimed by owner, published v1.2.0 with 13 tools, 3 prompts and 12 guide resources |
+| HOL Registry | https://hol.org/registry/plugins/i2v-ai%2Fi2v-ai | 2026-11-22 | Live and owner verified (Trust Score 81, scan grade Good, 2 components); also listed in the hashgraph-online/awesome-ai-plugins README |
 
 ## Submitted, waiting on review
 
