@@ -22,7 +22,7 @@ A single record of every public directory, marketplace, and awesome-list submiss
 
 | Channel | Where | Submitted | Status |
 | --- | --- | --- | --- |
-| Official MCP Registry | https://registry.modelcontextprotocol.io (`io.github.i2v-ai/mcp`) | 2026-11 | Published, version 1.1.1 |
+| Official MCP Registry | https://registry.modelcontextprotocol.io (`io.github.i2v-ai/mcp`) | 2026-11 | Published, version 1.2.0 is `isLatest` (published 2026-11-22T05:35:31Z) |
 | Glama | https://glama.ai/mcp/connectors/io.github.i2v-ai/mcp | 2026-11 | Claimed, Healthy, 13 tools indexed |
 | Glama (runs from source) | https://glama.ai/mcp/servers/i2v-ai/i2v-cli | 2026-11-22 | Claimed, Docker build green, release v1.2.1, rated A (TDQS 3.9/5 over 14 tools) |
 | mcpserver.dev | https://mcpserver.dev/s/i2v-ai_1zo2li7 | 2026-11 | Live |
@@ -166,6 +166,7 @@ A single record of every public directory, marketplace, and awesome-list submiss
 | mcpdirectory.com, openmcp.org, mcpfind.com, mcpbenchmark.com | Parked or for-sale domains, no submission form |
 | topai.tools, toolify.ai, aitoolnet.com, openfuture.ai | Cloudflare challenge (HTTP 403) on the submit pages |
 | aihubs.ai | Submit page is a login wall |
+| mcpindex.dev | Submit form posts to `/api/submit`, which answers HTTP 500 `new row violates row-level security policy for table "tool_submissions"`; the backend is broken server-side, retry only if the error changes |
 | dang.ai | Free tier requires a verified backlink on our site; paid tiers are 49 USD and up |
 | altern.ai | Free plan requires an Altern badge on i2v.ai plus an X follow and a newsletter signup; paid plans are 29 and 49 USD |
 | aitools.inc | Free-listing Typeform is closed; only the 129 USD Fast Lane is open |
