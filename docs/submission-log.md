@@ -186,6 +186,11 @@ A single record of every public directory, marketplace, and awesome-list submiss
 | aixploria.com | Listings start at 79 USD |
 | aitoolmate.com | One-time 9 USD submission fee |
 | supertools.therundown.ai | No form; they ask for an email to support@therundown.ai instead |
+| fewservers.com | The form finishes on an email handoff: it stores nothing and shows a `mailto:hello@fewservers.com` summary to send manually |
+| mcpharbor.app | Free listing needs 25 stars, or 5 when the server is in the official registry; i2v-ai/i2v-mcp is still at 0 stars |
+| pickaplugin.com | No form: it only accepts an email to hello@pickaplugin.com with the repo link |
+| claudepluginhub.com | Cloudflare human-verification challenge on every page |
+| hol.org | Listed and owner verified; the repository-picker API answers `github_auth_failed: Sorry. Your account was suspended`, so the self-serve claim is the working path |
 
 ## Still open
 
