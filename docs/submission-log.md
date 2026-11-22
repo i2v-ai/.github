@@ -121,6 +121,8 @@ A single record of every public directory, marketplace, and awesome-list submiss
 | eudk/awesome-ai-tools | #994 | Video Generation Tools line, existing one-line format | Open, mergeable |
 | pingan8787/awesome-ai-tools | #421 | Video section entry, numbered continuation of the existing list | Open, mergeable |
 | aliammari1/awesome-ai-tools | #598 | `catalog/tools/i2v-ai.json` record plus the generated README line, `bun run validate` green | Open, mergeable |
+| VoltAgent/official-mcp-servers | #118 | Emerging and Independent entry, PR title `Add server: i2v.ai` as asked | Open, mergeable |
+| hanishrao/collective-ai-tools | #606 | Video section entry, alphabetized, tagged `#paid` `#api` | Open, mergeable |
 | Wellux/awesome-mcp-connectors | #8 | Creative, CAD and maker servers entry, star count left to the repo script | Open, mergeable |
 | pathintegral-institute/mcpm.sh | #566 | `mcp-registry/servers/i2v-ai.json` with hosted, API key and npm installs | Open, mergeable |
 | filipecalegario/awesome-generative-ai | #860 | Online Tools and Applications entry, newest first as the guide asks | Open, mergeable |
