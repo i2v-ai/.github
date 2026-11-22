@@ -67,6 +67,7 @@ A single record of every public directory, marketplace, and awesome-list submiss
 | Perplexity Connector | Google Form at https://pplx.ai/connector-form-submission | 2026-11-22 | Submitted, on-screen confirmation, review questions go to connectors@perplexity.ai |
 | AI工具集 ai-bot.cn | https://ai-bot.cn/submit/ (Feishu form) | 2026-11-22 | Submitted through the embedded Feishu questionnaire; confirmation reads 感谢您的提交，我们会尽快查看～. Name/URL/one-line summary/detail/contact filled, category AI视频工具 |
 | Gemini CLI extension gallery | https://geminicli.com/extensions | 2026-11-22 | `gemini-extension.json` plus the `gemini-cli-extension` topic added to i2v-ai/i2v-mcp; the daily crawler picks it up |
+| AiAgents.Directory | https://aiagents.directory/ | 2026-11-22 | Free review submitted for i2v.ai; success page shows a status-page link, review takes one to two weeks |
 | FutureTools (futuretools.io) | https://futuretools.io/submit-a-tool | 2026-11-22 | POST /api/tools/submit returned {"success":true}; on-screen "Tool Submitted!", Matt reviews manually |
 | Insidr AI Tools (insidr.ai) | https://www.insidr.ai/submit-tools/ | 2026-11-22 | POST /api/tool returned {"ok":true}; on-screen RECEIVED, review only, no reply promised |
 | AI Tools Directory (aitoolsdirectory.com) | https://aitoolsdirectory.com/tool-submitted | 2026-11-22 | Paperform at aitool.paperform.co submitted; on-screen "Tool Submission Successful" |
@@ -160,6 +161,10 @@ A single record of every public directory, marketplace, and awesome-list submiss
 | aitools.inc | Free-listing Typeform is closed; only the 129 USD Fast Lane is open |
 | toolpilot.ai | Free listings require a mandatory backlink badge |
 | public-apis/public-apis | CONTRIBUTING rejects marketing-style submissions and requires free or freemium access; usage-based pricing disqualifies us |
+| www.aivalley.ai/submit-tool/ | Contact Form 7 returns `{"status":"mail_failed"}` on both the page and a direct POST to `/wp-json/contact-form-7/v1/contact-forms/2086/feedback`, so the site cannot receive submissions |
+| aitoolhunt.io/submit-tool | Email-only intake (contact@aitoolhunt.io) and a payment link is sent after approval, so listing is not free |
+| submit.bestofai.io | Free plan is delegated to SemiLaunch, whose free launch requires the SemiLaunch badge on the site or an X post from an account with 200+ followers; paid plans are $29 and $99 |
+| semilaunch.com | Free launch in week 51 needs the SemiLaunch badge in the i2v.ai footer or an X post from a 200+ follower account; paid launch is $15 |
 | best-of-ai/best-of-ai | Guidelines forbid self-promotion unless the tool is already well known |
 | PulseMCP, Toolify, Futurepedia, There's An AI For That, SaaSHub, AlternativeTo, Product Hunt | Rejected or blocked (HTTP 403/429) for automated access |
 | aitoolly.com | Lowest package is a 29.99 USD one-time listing |
