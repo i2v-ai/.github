@@ -143,6 +143,8 @@ A single record of every public directory, marketplace, and awesome-list submiss
 | Sagargupta16/awesome-mcp-servers | #487 | Design & Creative table row | **Merged** 2026-11-21; duplicate issue #490 closed |
 | Be-As-One/kinovi-admin | #261 | Unrelated feature PR (KIN-42 landing page draft admin), opened by the same account; tracked here so the open count stays accurate | Open, **conflicting** |
 | Chat2AnyLLM/awesome-repo-configs | #359 | Skill, plugin marketplace and MCP repo config | **Merged** 2026-11-21 |
+| Piebald-AI/awesome-gemini-cli-extensions | #160 | Image Generation & Rendering entry, stars the repo first as AGENTS.md requires | Open, mergeable |
+| Piebald-AI/awesome-gemini-cli | #394 | MCP Servers entry for the hosted endpoint plus the npm stdio server, stars the repo first as AGENTS.md requires | Open, mergeable |
 
 ## Skipped on purpose
 
