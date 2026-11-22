@@ -131,6 +131,7 @@ A single record of every public directory, marketplace, and awesome-list submiss
 | VoltAgent/official-mcp-servers | #118 | Emerging and Independent entry, PR title `Add server: i2v.ai` as asked | Open, mergeable |
 | hanishrao/collective-ai-tools | #606 | Video section entry, alphabetized, tagged `#paid` `#api` | Open, mergeable |
 | JSONbored/awesome-claude (HeyClaude) | #5890 | New `content/mcp/i2v-ai-mcp-server.mdx` entry, `pnpm validate:content:strict` green | Open, mergeable |
+| TensorBlock/awesome-mcp-servers | #6567 | Art, Culture & Media row in `docs/art-culture--media.md` | Open, mergeable |
 | GetBindu/awesome-claude-code-and-skills | #393 | MCP Servers & Integrations line, single readme.md change | Open, mergeable |
 | Wellux/awesome-mcp-connectors | #8 | Creative, CAD and maker servers entry, star count left to the repo script | Open, mergeable |
 | pathintegral-institute/mcpm.sh | #566 | `mcp-registry/servers/i2v-ai.json` with hosted, API key and npm installs | Open, mergeable |
@@ -140,6 +141,7 @@ A single record of every public directory, marketplace, and awesome-list submiss
 | backblaze-labs/awesome-image-generation | #37 | `entries.yaml` only, one entry in `text-to-image-apis` | Open, mergeable |
 | bestaidrama/awesome-ai-video-generators | #44 | Video models and platforms line, alphabetical | Open, mergeable |
 | Sagargupta16/awesome-mcp-servers | #487 | Design & Creative table row | **Merged** 2026-11-21; duplicate issue #490 closed |
+| Be-As-One/kinovi-admin | #261 | Unrelated feature PR (KIN-42 landing page draft admin), opened by the same account; tracked here so the open count stays accurate | Open, **conflicting** |
 | Chat2AnyLLM/awesome-repo-configs | #359 | Skill, plugin marketplace and MCP repo config | **Merged** 2026-11-21 |
 
 ## Skipped on purpose
