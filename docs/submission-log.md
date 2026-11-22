@@ -9,6 +9,8 @@ A single record of every public directory, marketplace, and awesome-list submiss
 - Local MCP: `npx -y @i2v-ai/cli mcp` (stdio, `I2V_API_KEY`)
 - Catalog: 12 image models and 16 video models
 - Tools: 13 (`list_models`, `get_model_params`, `estimate_cost`, `create_task`, `recommend_models`, `prepare_generation`, `recover_submission`, `get_task`, `get_account`, `get_usage`, `search_docs`, `create_upload_url`, `complete_upload`)
+- Prompts: 3 (`generate_image`, `generate_video`, `budget_check`)
+- Resources: 12 client guides under `i2v://guides/<slug>` (codex-cli, claude-code, gemini-cli, cursor, vscode-copilot, chatgpt, claude-desktop, api-key, local-stdio, oauth, workflow, account-and-access)
 - Source repositories: `i2v-ai/i2v-mcp`, `i2v-ai/i2v-cli`, `i2v-ai/i2v-skills`, `i2v-ai/i2v-sdk-js`, `i2v-ai/i2v-sdk-python`
 - Docs: `https://i2v.ai/docs/mcp`
 - Logo (400x400 PNG): `https://raw.githubusercontent.com/i2v-ai/i2v-mcp/main/assets/logo-400.png`
