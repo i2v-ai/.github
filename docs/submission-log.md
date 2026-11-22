@@ -65,6 +65,7 @@ A single record of every public directory, marketplace, and awesome-list submiss
 | Glama (runs from source) | https://glama.ai/mcp/servers/i2v-ai/i2v-cli | 2026-11-22 | Listed as a B-rated official server; claiming needs `glama.json`, which is now committed to both i2v-cli and i2v-mcp |
 | Cline MCP Marketplace | https://github.com/cline/mcp-marketplace/issues/3983 | 2026-11 | Issue filed with 400x400 logo |
 | Perplexity Connector | Google Form at https://pplx.ai/connector-form-submission | 2026-11-22 | Submitted, on-screen confirmation, review questions go to connectors@perplexity.ai |
+| AI工具集 ai-bot.cn | https://ai-bot.cn/submit/ (Feishu form) | 2026-11-22 | Submitted through the embedded Feishu questionnaire; confirmation reads 感谢您的提交，我们会尽快查看～. Name/URL/one-line summary/detail/contact filled, category AI视频工具 |
 | Gemini CLI extension gallery | https://geminicli.com/extensions | 2026-11-22 | `gemini-extension.json` plus the `gemini-cli-extension` topic added to i2v-ai/i2v-mcp; the daily crawler picks it up |
 | FutureTools (futuretools.io) | https://futuretools.io/submit-a-tool | 2026-11-22 | POST /api/tools/submit returned {"success":true}; on-screen "Tool Submitted!", Matt reviews manually |
 | Insidr AI Tools (insidr.ai) | https://www.insidr.ai/submit-tools/ | 2026-11-22 | POST /api/tool returned {"ok":true}; on-screen RECEIVED, review only, no reply promised |
