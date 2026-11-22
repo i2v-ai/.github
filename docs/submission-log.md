@@ -71,6 +71,7 @@ A single record of every public directory, marketplace, and awesome-list submiss
 | AI Tools Directory (aitoolsdirectory.com) | https://aitoolsdirectory.com/tool-submitted | 2026-11-22 | Paperform at aitool.paperform.co submitted; on-screen "Tool Submission Successful" |
 | aitoolslist.io | https://aitoolslist.io/submit-ai-tool/ | 2026-11-22 | Tally form n9BqRX submitted; on-screen "Form submitted" |
 | AIToolboard | https://aitoolboard.com/submit | 2026-11-22 | Free Listing selected; submit fired a browser alert "Tool submitted successfully! It will be reviewed by our team." and redirected to the login page |
+
 ## Pull requests and issues
 
 | Repository | PR/Issue | Change | Status |
@@ -123,6 +124,7 @@ A single record of every public directory, marketplace, and awesome-list submiss
 | aliammari1/awesome-ai-tools | #598 | `catalog/tools/i2v-ai.json` record plus the generated README line, `bun run validate` green | Open, mergeable |
 | VoltAgent/official-mcp-servers | #118 | Emerging and Independent entry, PR title `Add server: i2v.ai` as asked | Open, mergeable |
 | hanishrao/collective-ai-tools | #606 | Video section entry, alphabetized, tagged `#paid` `#api` | Open, mergeable |
+| JSONbored/awesome-claude (HeyClaude) | #5890 | New `content/mcp/i2v-ai-mcp-server.mdx` entry, `pnpm validate:content:strict` green | Open, mergeable |
 | Wellux/awesome-mcp-connectors | #8 | Creative, CAD and maker servers entry, star count left to the repo script | Open, mergeable |
 | pathintegral-institute/mcpm.sh | #566 | `mcp-registry/servers/i2v-ai.json` with hosted, API key and npm installs | Open, mergeable |
 | filipecalegario/awesome-generative-ai | #860 | Online Tools and Applications entry, newest first as the guide asks | Open, mergeable |
