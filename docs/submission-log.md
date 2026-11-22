@@ -73,6 +73,7 @@ A single record of every public directory, marketplace, and awesome-list submiss
 | AI Tools Directory (aitoolsdirectory.com) | https://aitoolsdirectory.com/tool-submitted | 2026-11-22 | Paperform at aitool.paperform.co submitted; on-screen "Tool Submission Successful" |
 | aitoolslist.io | https://aitoolslist.io/submit-ai-tool/ | 2026-11-22 | Tally form n9BqRX submitted; on-screen "Form submitted" |
 | AIToolboard | https://aitoolboard.com/submit | 2026-11-22 | Free Listing selected; submit fired a browser alert "Tool submitted successfully! It will be reviewed by our team." and redirected to the login page |
+| MCP Store (mcpstore.co) | https://mcpstore.co/submit | 2026-11-22 | Google sign-in, GitHub quick-submit for https://github.com/i2v-ai/i2v-mcp; POST /api/submit returned {"success":true} with submission_id 6b023eb4f4a6fe767e338d81 and the page reads "Submitted. Waiting for review." |
 
 ## Pull requests and issues
 
