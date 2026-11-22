@@ -38,6 +38,9 @@ A single record of every public directory, marketplace, and awesome-list submiss
 | MCP Marketplace | https://mcp-marketplace.io | 2026-11-22 | Pending review (`I2v.ai`, v1.0.0, Free) |
 | LobeHub Market | https://lobehub.com/mcp/i2v-ai-i2v-mcp | 2026-11-22 | Live, claimed by owner, published v1.2.0 with 13 tools, 3 prompts and 12 guide resources |
 | HOL Registry | https://hol.org/registry/plugins/i2v-ai%2Fi2v-ai | 2026-11-22 | Live and owner verified (Trust Score 81, scan grade Good, 2 components); also listed in the hashgraph-online/awesome-ai-plugins README |
+| mcp.tc | https://mcp.tc/i/i2v-ai | 2026-11-22 | Live, submitted through https://mcp.tc/submit and listed in about 45 seconds; directory category AI & Machine Learning, one-click install for Cursor, VS Code and Claude |
+| PlugMCP | https://plugmcp.ai/mcp/i2v-ai-mcp-server | 2026-11-22 | Live and probed, catalog slug i2v-ai-mcp-server; two earlier attempts left the dotted slugs `i2v.ai` and `i2v.ai-mcp` that the catalog validator rejects |
+| McpRepository | https://mcprepository.com/i2v-ai/i2v-mcp | 2026-11-22 | Already indexed automatically; submitting the repo again returns "This repository has already been indexed." |
 
 ## Submitted, waiting on review
 
@@ -151,6 +154,7 @@ A single record of every public directory, marketplace, and awesome-list submiss
 | Chat2AnyLLM/awesome-repo-configs | #359 | Skill, plugin marketplace and MCP repo config | **Merged** 2026-11-21 |
 | Piebald-AI/awesome-gemini-cli-extensions | #160 | Image Generation & Rendering entry, stars the repo first as AGENTS.md requires | Open, mergeable |
 | Piebald-AI/awesome-gemini-cli | #394 | MCP Servers entry for the hosted endpoint plus the npm stdio server, stars the repo first as AGENTS.md requires | Open, mergeable |
+| plugmcp-ai/awesome-mcp-servers | #14 | `catalog/servers.json` entry for the live PlugMCP listing, bot PR prefix as CONTRIBUTING asks | Open, clean, `validate` passing |
 
 ## Skipped on purpose
 
@@ -191,6 +195,13 @@ A single record of every public directory, marketplace, and awesome-list submiss
 | pickaplugin.com | No form: it only accepts an email to hello@pickaplugin.com with the repo link |
 | claudepluginhub.com | Cloudflare human-verification challenge on every page |
 | hol.org | Listed and owner verified; the repository-picker API answers `github_auth_failed: Sorry. Your account was suspended`, so the self-serve claim is the working path |
+| mcpindex.io | No submission entry point: the "提交 MCP" link is `href="#"` and no form opens; the site already carries an auto-crawled i2v.ai entry |
+| mcpserverlist.io (MCP Lister) | Paid submission service, 49 USD per listing |
+| mcpexplorer.com | Paid listing: 15 USD per directory entry, 99 USD for the front page |
+| mcp.market | Paid review, 25 USD one-time |
+| mcpstat.com, catalog.agentage.io | No reachable form: mcpstat.com answers 404 on /submit, /publishers and /add, and catalog.agentage.io redirects every submit path back to /mcp |
+| mcpbay.com, mcparchive.com, mcphub.dev, mcpshelf.io, mcpcloud.io, mcpforge.dev | Parked, retired or unrelated: launch-soon placeholders, "MCP Hub has been retired", a missing domain, and a paid hosting product rather than a directory |
+| mcpdirectory.ai, mcpservers.directory, mcp-server.directory, mcplist.io, mcpstacks.com, mcpdesk.dev, mcp.ax, mcpcafe.com, mcpzone.com, mcpshelf.com, mcpbar.com, vibenate.dev | TLS handshake fails outright (curl exit 000), so no directory is being served |
 
 ## Still open
 
