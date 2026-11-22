@@ -158,6 +158,8 @@ A single record of every public directory, marketplace, and awesome-list submiss
 | Piebald-AI/awesome-gemini-cli-extensions | #160 | Image Generation & Rendering entry, stars the repo first as AGENTS.md requires | Open, mergeable |
 | Piebald-AI/awesome-gemini-cli | #394 | MCP Servers entry for the hosted endpoint plus the npm stdio server, stars the repo first as AGENTS.md requires | Open, mergeable |
 | plugmcp-ai/awesome-mcp-servers | #14 | `catalog/servers.json` entry for the live PlugMCP listing, bot PR prefix as CONTRIBUTING asks | Open, clean, `validate` passing |
+| mcp-finder/awesome-mcp-servers | #27 | Design and media entry, one sentence in present tense | Open, mergeable |
+| bgizdov/awesome-mcp-servers | #33 | `contributions/i2v-ai-mcp-server.json` following the repo template | Open, mergeable |
 
 ## Skipped on purpose
 
