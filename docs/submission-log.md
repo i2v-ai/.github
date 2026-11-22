@@ -86,6 +86,7 @@ A single record of every public directory, marketplace, and awesome-list submiss
 
 | Repository | PR/Issue | Change | Status |
 | --- | --- | --- | --- |
+| composio-community/awesome-claude-plugins | #806 | Image and Video Generation entry | Open, mergeable |
 | punkpeye/awesome-remote-mcp-servers | #5413 | Multimedia section entry | Open, mergeable |
 | punkpeye/awesome-mcp-servers | #20211 | Multimedia Process entry (local stdio) | Open, mergeable |
 | VoltAgent/awesome-agent-skills | #1461 | Specialized Domains entry | Open, mergeable |
