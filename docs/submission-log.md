@@ -75,6 +75,7 @@ A single record of every public directory, marketplace, and awesome-list submiss
 | AIToolboard | https://aitoolboard.com/submit | 2026-11-22 | Free Listing selected; submit fired a browser alert "Tool submitted successfully! It will be reviewed by our team." and redirected to the login page |
 | MCP Store (mcpstore.co) | https://mcpstore.co/submit | 2026-11-22 | Google sign-in, GitHub quick-submit for https://github.com/i2v-ai/i2v-mcp; POST /api/submit returned {"success":true} with submission_id 6b023eb4f4a6fe767e338d81 and the page reads "Submitted. Waiting for review." |
 | AI Tools for Marketers | https://aitoolsmarketer.com/submit | 2026-11-22 | Free submission via the six-field form with the standard editorial queue; POST /api/submit-tool/submit returned {"ok":true} and the page confirmed the review email goes to support@i2v.ai within 24 hours |
+| NavTools AI (navtools.ai) | https://navtools.ai/submit | 2026-11-22 | Basic free listing with the manual content mode; POST /submit returned {"success":true,"message":"Tool submission received successfully"} and the form reset |
 | agentskill.sh | https://agentskill.sh/i2v-ai/i2v-integrate | 2026-11-22 | Imported both skills from i2v-ai/i2v-skills without an account; API returns i2v-ai/i2v-integrate and i2v-ai/i2v-models, page says 2 skills found, 2 imported |
 
 ## Pull requests and issues
