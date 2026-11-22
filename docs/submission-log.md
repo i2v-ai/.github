@@ -16,6 +16,7 @@ A single record of every public directory, marketplace, and awesome-list submiss
 - Contact: `support@i2v.ai`
 - License: MIT
 - Official MCP Registry name: `io.github.i2v-ai/mcp`
+- npm `latest`: `@i2v-ai/cli@1.2.2` (both `latest` and `next` point at 1.2.2 since 2026-11-22)
 
 ## Live listings
 
@@ -183,7 +184,7 @@ A single record of every public directory, marketplace, and awesome-list submiss
 ## Still open
 
 - OpenAI plugin directory: domain verified and the MCP scan reports no findings; reviewer credentials and the demo recording URL are still outstanding.
-- npm `@i2v-ai/cli@1.2.2`: staged as `ba391324-22c4-49bc-8499-b13ad227151c`, waiting on the maintainer security-key approval.
+- npm `@i2v-ai/cli@1.2.2`: resolved on 2026-11-22. The staged publish was approved, the tag landed on `next` because `publishConfig.tag` and the workflow both hardcoded `--tag next`, and the OIDC trusted publisher lacked the dist-tag permission. Both are fixed: `i2v-cli` commit `bb45a79` drops the hardcoded tag and adds a `dist_tag` dispatch input, and the trusted publisher now carries `Allow npm dist-tag`. `latest` moved to 1.2.2 via workflow run 44984900183.
 - skills.sh: the skill pages resolve at `https://skills.sh/i2v-ai/i2v-skills/i2v-models` and `.../i2v-video`; search indexing follows install telemetry and has not picked them up yet.
 - Snyk audit: the prompt-injection finding was addressed in CLI 1.2.2 by rejecting an undeclared `callBackUrl` in the local stdio server; re-scan pending.
 - Cursor Marketplace (organization publisher) needs an organization account.
