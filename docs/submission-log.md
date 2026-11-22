@@ -125,6 +125,7 @@ A single record of every public directory, marketplace, and awesome-list submiss
 | VoltAgent/official-mcp-servers | #118 | Emerging and Independent entry, PR title `Add server: i2v.ai` as asked | Open, mergeable |
 | hanishrao/collective-ai-tools | #606 | Video section entry, alphabetized, tagged `#paid` `#api` | Open, mergeable |
 | JSONbored/awesome-claude (HeyClaude) | #5890 | New `content/mcp/i2v-ai-mcp-server.mdx` entry, `pnpm validate:content:strict` green | Open, mergeable |
+| GetBindu/awesome-claude-code-and-skills | #393 | MCP Servers & Integrations line, single readme.md change | Open, mergeable |
 | Wellux/awesome-mcp-connectors | #8 | Creative, CAD and maker servers entry, star count left to the repo script | Open, mergeable |
 | pathintegral-institute/mcpm.sh | #566 | `mcp-registry/servers/i2v-ai.json` with hosted, API key and npm installs | Open, mergeable |
 | filipecalegario/awesome-generative-ai | #860 | Online Tools and Applications entry, newest first as the guide asks | Open, mergeable |
