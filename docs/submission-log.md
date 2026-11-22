@@ -34,7 +34,7 @@ A single record of every public directory, marketplace, and awesome-list submiss
 | grok-bot.directory | https://grok-bot.directory/apps/i2v-ai | 2026-11-22 | Listed |
 | ever.works MCP directory | https://mcpserver.ever.works/items/i2vai-mcp-server | 2026-11-22 | Live, category Media Processing MCP Servers |
 | MCP Marketplace | https://mcp-marketplace.io | 2026-11-22 | Pending review (`I2v.ai`, v1.0.0, Free) |
-| LobeHub Market | https://lobehub.com/mcp/i2v-ai-i2v-mcp | 2026-11-22 | Live, claimed by owner, published v1.1.3 with 13 tools (grade F: prompts and resources still missing) |
+| LobeHub Market | https://lobehub.com/mcp/i2v-ai-i2v-mcp | 2026-11-22 | Live, claimed by owner, published v1.1.3 with 13 tools, scored A / 84 of 100 (missing only prompts and resources, 8 points each) |
 
 ## Submitted, waiting on review
 
