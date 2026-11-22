@@ -85,6 +85,9 @@ A single record of every public directory, marketplace, and awesome-list submiss
 | AI Tools for Marketers | https://aitoolsmarketer.com/submit | 2026-11-22 | Free submission via the six-field form with the standard editorial queue; POST /api/submit-tool/submit returned {"ok":true} and the page confirmed the review email goes to support@i2v.ai within 24 hours |
 | NavTools AI (navtools.ai) | https://navtools.ai/submit | 2026-11-22 | Basic free listing with the manual content mode; POST /submit returned {"success":true,"message":"Tool submission received successfully"} and the form reset |
 | agentskill.sh | https://agentskill.sh/i2v-ai/i2v-integrate | 2026-11-22 | Imported both skills from i2v-ai/i2v-skills without an account; API returns i2v-ai/i2v-integrate and i2v-ai/i2v-models, page says 2 skills found, 2 imported |
+| MCP Collection | https://mcpcollection.com/server/i2v-ai | 2026-11-22 | JSON API `POST /api/submit` returned HTTP 201 with id 943 and slug `i2v-ai`; endpoint check verified https://i2v.ai/api/mcp, manual review within 48 hours |
+| mcpserver.cc | https://mcpserver.cc | 2026-11-22 | `POST /api/submit-server` returned code 0 with uuid `2df14de1-ba3b-42a3-8ff9-8511f96ab1fc`; manual review, 1,118 servers indexed |
+| MCP ServerList | https://mcp-serverlist.com | 2026-11-22 | Community (free) tier selected instead of the default Fast-Track; `POST /api/submit` returned success with submissionId 171, review in 1-2 days when a badge is present |
 
 ## Pull requests and issues
 
@@ -202,6 +205,7 @@ A single record of every public directory, marketplace, and awesome-list submiss
 | mcpstat.com, catalog.agentage.io | No reachable form: mcpstat.com answers 404 on /submit, /publishers and /add, and catalog.agentage.io redirects every submit path back to /mcp |
 | mcpbay.com, mcparchive.com, mcphub.dev, mcpshelf.io, mcpcloud.io, mcpforge.dev | Parked, retired or unrelated: launch-soon placeholders, "MCP Hub has been retired", a missing domain, and a paid hosting product rather than a directory |
 | mcpdirectory.ai, mcpservers.directory, mcp-server.directory, mcplist.io, mcpstacks.com, mcpdesk.dev, mcp.ax, mcpcafe.com, mcpzone.com, mcpshelf.com, mcpbar.com, vibenate.dev | TLS handshake fails outright (curl exit 000), so no directory is being served |
+| listbulb.com | Free listing ($0) needs a dofollow ListBulb badge link on https://i2v.ai and the weekly 3-upvote streak; both listing details and the streak are done (3/3), but the site's verifier reports `Dofollow ListBulb link not found in page source` until the badge goes into the i2v.ai homepage. Paid tiers are QuickPass 10.50 USD and Featured 21 USD |
 
 ## Still open
 
